@@ -6,60 +6,60 @@ log-level: info
 proxies:
 - name: 🇨🇿 CZ 01 - xiaohe
   type: vless
-  server: 195.85.23.248
-  port: 443
-  uuid: b09dfed1-90fa-4353-8bdf-de1edb2e2d79
+  server: 188.114.97.8
+  port: 8443
+  uuid: d4d2d3f3-9dec-4e8f-8daf-145ecac96e66
   udp: true
   tls: true
   skip-cert-verify: true
-  servername: nb.lovecf.ggff.net
+  servername: cRIMSON-LeAf-7E45.hzhdUuEBFjDCB.workERs.DEv
   network: ws
   ws-opts:
-    path: /proxyip=us.xiabibi.cf
+    path: /eyJqdW5rIjoiODgwQ1AwWDV0MnFTRWE1cCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=
     headers:
-      Host: nb.lovecf.ggff.net
+      Host: crimson-leaf-7e45.hzhduuebfjdcb.workers.dev
 - name: 🇨🇿 CZ 02 - xiaohe
   type: vless
-  server: 188.130.207.30
-  port: 2053
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  server: 172.67.167.77
+  port: 443
+  uuid: cc08d2d0-8a7a-4469-81d2-c43704451271
   udp: true
   tls: true
   skip-cert-verify: true
-  servername: cdn8848.776676.xyz
+  servername: 9tg-d0htbrb5e3tp0c-o7ix23cx0f.ftfgblgft6-1h2iv2oo4h0.workers.dev
   network: ws
   ws-opts:
-    path: /m
+    path: /vl/6871nrbnl9WsdAiOUInt
     headers:
-      Host: cdn8848.776676.xyz
+      Host: 9tg-d0htbrb5e3tp0c-o7ix23cx0f.ftfgblgft6-1h2iv2oo4h0.workers.dev
 - name: 🇨🇿 CZ 03 - xiaohe
   type: vless
-  server: 195.85.23.111
-  port: 443
-  uuid: b09dfed1-90fa-4353-8bdf-de1edb2e2d79
+  server: 104.21.51.145
+  port: 8443
+  uuid: ef23616d-8a9d-4b22-b2f5-9bda864de179
   udp: true
   tls: true
   skip-cert-verify: true
-  servername: nb.lovecf.ggff.net
+  servername: INDEX.Arcane509.Workers.DEV
   network: ws
   ws-opts:
-    path: /proxyip=us.xiabibi.cf
+    path: /
     headers:
-      Host: nb.lovecf.ggff.net
+      Host: index.arcane509.workers.dev
 - name: 🇨🇿 CZ 04 - xiaohe
   type: vless
-  server: 64.225.110.247
-  port: 2083
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  server: 162.159.152.4
+  port: 443
+  uuid: f2a73750-3087-48ff-a763-1348c15dce68
   udp: true
   tls: true
   skip-cert-verify: true
-  servername: cdn8848.776676.xyz
+  servername: rAyAn-007.mAxImA.DpDnS.OrG
   network: ws
   ws-opts:
-    path: /acg/buy/ajax
+    path: /?ed=2560
     headers:
-      Host: cdn8848.776676.xyz
+      Host: rAyAn-007.mAxImA.DpDnS.OrG
 proxy-groups:
 - name: PROXIES
   type: select
